@@ -1,0 +1,47 @@
+baseURL = "http://lehrerbildung.github.io/"
+languageCode = "de-DE"
+defaultContentLanguage = "de"
+title = "BKD"
+
+theme = "hugo-learn-theme"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[params]
+  # Change default color scheme with a variant one. Can be "red", "blue", "green".
+  	themeVariant = "bildung" 
+	customcss = "css/mystyle.css"
+  	showVisitedLinks = true
+
+  # Prefix URL to edit current page. Will display an "Edit this page" button on top right hand corner of every page. 
+  # Useful to give opportunity to people to create merge request for your doc.
+  # See the config.toml file from this documentation site to have an example.
+  editURL = "https://github.com/Lehrerbildung/BKD/tree/master/content/"
+  # Author of the site, will be used in meta information
+  author = "Leibniz School of Education"
+  
+[[menu.shortcuts]] 
+	name = "<i class='fas fa-book'></i></i> Content"
+	identifier = "content"
+	url = "https://github.com/Lehrerbildung/BKD"
+	weight = 10
+
+# [[menu.shortcuts]] 
+#	name = "<i class='fab fa-github'></i> Website"
+#	identifier = "website"
+#	url = "https://github.com/Lehrerbildung/Lehrerbildung.github.io"
+#	weight = 11
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-bullhorn'></i> Impressum"
+url = "/credits"
+weight = 12
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
+
