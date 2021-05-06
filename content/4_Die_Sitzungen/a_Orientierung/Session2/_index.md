@@ -6,7 +6,6 @@ weight: 2
 ---
 {{% children  %}}
 
-Test
 
 ## Einordnung 
 **Kontext**
