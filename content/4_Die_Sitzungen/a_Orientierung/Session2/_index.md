@@ -6,15 +6,6 @@ weight: 2
 ---
 
 
-## Inhalt
-* [Einordnung](#Einordnung)
-* [Aufgaben zur Vorbereitung](#Aufgaben-zur-Vorbereitung-der-02-Sitzung)
-* [Ablaufplanung](#Ablaufplanung)
-* [Material](#Material)
-* [Lizenz](#Lizenz)
-
-
-
 ## Einordnung 
 **Kontext**
 Ziel der **einführenden Sitzungen 01 bis 03** ist es, zunächst einen Überblick über das Themenfeld zu erhalten (01), um anschließend  aus einer individuellen (02) sowie einer gesellschaftlichen Perspektive (03) auf die digitale Transformation zu schauen. Bisher wurden folgende Seminarsitzungen absolviert:

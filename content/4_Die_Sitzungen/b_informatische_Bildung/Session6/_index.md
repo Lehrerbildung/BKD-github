@@ -6,28 +6,6 @@ weight: 6
 ---
 
 
-# Inhalt
-* [Einordnung](#Einordnung)
-* [Aufgaben zur Vorbereitung der 06. Sitzung](#Aufgaben-zur-Vorbereitung-der-06-Sitzung) 
-* [Ablaufplanung](#Ablaufplanung)
-* [Material](#Material)
-* [Lizenz](#Lizenz)
-
-# Markdowntest
-
-## Table of Contents
-1. [Example](#example)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
-
-
-### Example
-### Example2
-
-### [Fourth Example](http://www.fourthexample.com) 
-
-
 ## Einordnung 
 
 
@@ -92,7 +70,6 @@ Eine Woche vor der Seminarbeginn stellen Sie den Studierenden die folgenden  Auf
 
 
 
-### Third Example
 
 <center>
 

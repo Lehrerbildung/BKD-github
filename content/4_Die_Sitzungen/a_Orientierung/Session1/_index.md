@@ -4,8 +4,6 @@ date: 2020-10-11T08:40:08+02:00
 weight: 1
 draft: true
 ---
-{{% children  %}}
-
 
 Die folgenden **Seminarplanung** richtet sich an **Dozierende** und behandelt die **Einführungssitzung** des  Seminars ["Basiskompetenzen Digitalisierung“ für Lehramtsstudierende](https://univz.uni-goettingen.de/qisserver/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&veranstaltung.veranstid=262605), die im SoSe 2020 an der Universität Göttingen durchgeführt worden ist.
 Ein Überblick über das Seminarkonzept ist [hier](https://pad.gwdg.de/s/H1Pr8M4hB#) verfügbar.

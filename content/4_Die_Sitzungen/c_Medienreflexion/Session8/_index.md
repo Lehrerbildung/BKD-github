@@ -4,15 +4,6 @@ date: 2020-11-21T12:59:46+01:00
 draft: false
 weight: 8
 ---
-{{% children  %}}
-
-
-## Inhalt
-* [Einordnung](#Einordnung)
-* [Aufgaben zur Vorbereitung](#Aufgaben-zur-Vorbereitung-der-08-Sitzung)
-* [Ablaufplanung](#Ablaufplanung)
-* [Material](#Material)
-* [Lizenz](#Lizenz)
 
 ## Einordnung 
 **Kontext:**
