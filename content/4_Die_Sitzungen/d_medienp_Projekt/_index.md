@@ -13,7 +13,7 @@ In den Sitzungen 9-12 sollen die Studierenden abschließend ein (fiktives) **med
 
 In einem ersten Schritt **recherchieren** die Kleingruppen zunächst zu einem medienpädagogischen Thema bzw. arbeiten sich in die Nutzung und Gestaltung von [OER-Materialien](https://open-educational-resources.de/was-ist-oer-3-2/) ein. Auf Basis dessen formulieren sie Lernziele für ihre fiktive Lehr-Lern-Veranstaltung und stellen Bezüge zu den Kompetenzen der [KMK-Strategie](https://www.kmk.org/themen/bildung-in-der-digitalen-welt/strategie-bildung-in-der-digitalen-welt.html) sowie dem [DigCompEdu](https://ec.europa.eu/jrc/sites/jrcsh/files/digcompedu_german_final.pdf) her.  
 
-Die zweite medienpädagogische Sitzung dient der **Erarbeitung einer pädagogischen Strategie** zur Umsetzung der fiktiven Unterrichts- bzw Fortbildungseinheit. Die Studierenden orientieren sich hierbei am [ABC-Workshop-Format](https://www.youtube.com/watch?v=3C1gTHApg8A) sowie den sowie den [Learning Types nach Laurillard](https://owncloud.gwdg.de/index.php/s/z1njSnjf9UlU9mq)  
+Die zweite medienpädagogische Sitzung dient der **Erarbeitung einer pädagogischen Strategie** zur Umsetzung der fiktiven Unterrichts- bzw Fortbildungseinheit. Die Studierenden orientieren sich hierbei am [ABC-Workshop-Format](https://www.youtube.com/watch?v=3C1gTHApg8A) sowie den [Learning Types nach Laurillard.](https://owncloud.gwdg.de/index.php/s/z1njSnjf9UlU9mq)  
 
 Zur prototypischen **Umsetzung** des medienpädagoischen Projekts entscheiden sich die Gruppen in der elften Sitzung für je ein **[Lern-Management-System (LMS)](https://www.e-teaching.org/technik/distribution/lernmanagementsysteme/index_html)** - z.B. ILIAS, Moodle oder Canvas - und übertragen ihr Konzept darin.  
 
