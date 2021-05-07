@@ -4,7 +4,6 @@ date: 2020-11-21T12:58:53+01:00
 draft: false
 weight: 2
 ---
-{{% children  %}}
 
 
 ## Inhalt
