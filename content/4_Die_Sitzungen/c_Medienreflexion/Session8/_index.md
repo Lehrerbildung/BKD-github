@@ -6,10 +6,6 @@ weight: 8
 ---
 {{% children  %}}
 
-# #BKD2020: 08 Medienreflexion (in progress)
-
-
-
 
 ## Inhalt
 * [Einordnung](#Einordnung)
