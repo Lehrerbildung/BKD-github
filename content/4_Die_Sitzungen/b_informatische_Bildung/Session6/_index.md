@@ -49,8 +49,10 @@ Die Studierenden...
 
 ## Aufgaben zur Vorbereitung der 06. Sitzung
 
-<iframe src="https://einstiegh5p.de/h5p/embed/18006" width="615" height="746" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://einstiegh5p.de/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+Eine Woche vor der Seminarbeginn stellen Sie den Studierenden die folgenden  Aufgabe per Link zur Verfügung
 
+* [Aufgaben](https://lehrerbildung.github.io/4_die_sitzungen/f_aufgaben/)
+* Downloadlink für das h5p-Elment zum Einfügen in ein lokales LMS 
 
 ## Ablaufplanung
 
