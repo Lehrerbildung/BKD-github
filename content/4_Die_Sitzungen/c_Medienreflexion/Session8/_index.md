@@ -36,7 +36,7 @@ Die Studierenden lernen das Medienkonstellationsmodell kennen und können es ana
 Eine Woche vor der Seminarbeginn stellen Sie den Studierenden die folgenden  Aufgabe per Link zur Verfügung
 
 * [Aufgaben](https://lehrerbildung.github.io/4_die_sitzungen/f_aufgaben/)
-* Downloadlink für das h5p-Element zum Einfügen in ein lokales LMS 
+* [Downloadlink für das h5p-Elment zum Einfügen in ein lokales LMS](https://github.com/Lehrerbildung/BKD-github/raw/main/content/h5pElemente/8-medienreflexion.h5p)
 * Das Pad ist zusätzlich als Markdown-Datei unter [diesem Link](https://pad.gwdg.de/s/RG91FHjTY#) verfügbar.
 
 ## Ablaufplanung (Entwurf)

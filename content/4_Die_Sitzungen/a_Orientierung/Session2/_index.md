@@ -39,7 +39,7 @@ Ziel der **einführenden Sitzungen 01 bis 03** ist es, zunächst einen Überblic
 Eine Woche vor der Seminarbeginn stellen Sie den Studierenden die folgenden  Aufgabe per Link zur Verfügung
 
 * [Aufgaben](https://lehrerbildung.github.io/4_die_sitzungen/f_aufgaben/)
-* Downloadlink für das h5p-Elment zum Einfügen in ein lokales LMS 
+* [Downloadlink für das h5p-Elment zum Einfügen in ein lokales LMS](https://github.com/Lehrerbildung/BKD-github/raw/main/content/h5pElemente/2-persoenliches_Lernnetzwerk.h5p) 
 
 
 ## Ablaufplanung 
