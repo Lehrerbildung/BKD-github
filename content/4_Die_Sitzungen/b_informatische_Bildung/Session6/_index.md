@@ -6,7 +6,7 @@ weight: 6
 ---
 {{% children  %}}
 
-## Inhalt
+# Inhalt
 * [Einordnung](#Einordnung)
 * [Aufgaben zur Vorbereitung der 06. Sitzung](#Aufgaben-zur-Vorbereitung-der-06-Sitzung) 
 * [Ablaufplanung](#Ablaufplanung)
