@@ -17,7 +17,7 @@ Christian Schlöndorf (Niedersächsisches Landesinstitut für schulische Qualit�
 Dr. Andreas Weich (Georg-Eckert-Institut Braunschweig, Medienwissenschaft). 
 )  entwickelten Kompetenzrahmen "**Lehrkräftebildung in der digital vernetzten Welt**" im Rahmen des vom Niedersächsischen Ministerium für Wissenschaft und Kultur (MWK) finanzierten Verbundprojektes "[Basiskompetenzen Digitalisierung](http://www.lehrerbildungsverbund-niedersachsen.de/index.php?s=ProjektBasiskompetenzenDigitalisierung)" :
 
-![image alt text](image_0.png)
+![image alt text](https://raw.githubusercontent.com/Lehrerbildung/BKD-github/main/content/GenutzteBilder/haus.png)
                                         Abb.1:  Kompetenzrahmen "Lehrkräftebildung in der digital vernetzten Welt"
 
 Für die Darstellung des Modells wurde eine Haus-Metapher gewählt, um zu verdeutlichen, dass unterrichtsspezifische Kompetenzen in der digital vernetzten Welt auf grundlegenden digitalisierungsbezogenen Kompetenzen der (angehenden) Lehrkräfte aufbauen:
@@ -42,7 +42,7 @@ Der Kompetenzrahmen soll den niedersächsischen lehrkräftebildenden Hochschulen
 
 Das Ziel des hochschulübergreifend entwickelten und praxiserprobten Seminarkonzepts "Basiskompetenzen Digitalisierung" ist es, Orientierungswissen aus allen fünf skizzierten Kompetenzbereichen des Kompetenzrahmens (F, R, G, M, E) zu adressieren. Es zeigt somit beispielhaft auf, welche digitalisierungsbezogenen Basiskompetenzen, die alle (angehenden) Lehrkräfte erwerben sollten, sich aus dem Kompetenzrahmen destillieren lassen und wie diese gefördert werden können. 
 
-### ![image alt text](image_1.jpg)
+![image alt text](https://raw.githubusercontent.com/Lehrerbildung/BKD-github/main/content/GenutzteBilder/seminarkonzept.jpg)
 
 *   Abb.2:  Seminarkonzept des Verbundprojekts "Basiskompetenzen Digitalisierung" *
 
