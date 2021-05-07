@@ -93,12 +93,9 @@ H5P.Video=function(l,p){function t(e,t){var n=this;n.contentId=t,n.pressToPlay=!
             </body>
     </html>
 
-<html>
-	<p style="text-align: center;">
-
+<center>
 	[Download des h5p Elements](https://github.com/Lehrerbildung/Lehrerbildung.github.io/raw/master/h5pElemente/2-persoenliches_Lernnetzwerk.h5p)
-	</p>
-</html>
+</center>
 
 
 ## Ablaufplanung 
