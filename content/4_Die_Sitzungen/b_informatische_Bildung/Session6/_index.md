@@ -9,7 +9,7 @@ weight: 6
 ## Inhalt
 * [Einordnung](#Einordnung)
 * [Aufgaben zur Vorbereitung der 06. Sitzung](#Aufgaben-zur-Vorbereitung-der-06-Sitzung) 
-* [Ablaufplanung](#Ablaufplanung)
+* [Ablaufplanung](##Ablaufplanung)
 * [Material](#Material)
 * [Lizenz](#Lizenz)
 
