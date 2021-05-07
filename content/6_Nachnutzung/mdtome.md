@@ -9,9 +9,9 @@ weight: 3
 Um das vorgestellte Material selbst zu nutzen und in eigene Arbeiten einzubinden, stellen wir Ihnen hier einen erprobten Workflow vor.  
 Durch das Projekt werden drei unterschiedliche Verfahren zur Nachnutzung und Weiterarbeit bereitgestellt: 
 
-1. [Nachnutzung einer Markdownfile](#Nachnutzung-einer-Markdownfile) (diese enthalten alle Elemente, Texte und Verlaufspläne, die sich auf der Website befinden)
-2. [Nachnutzung der H5P-Elemente](#Nachnutzung-der-H5P-Elemente) (die Aufgaben der Sitzungen werden als interaktive H5P-Elemente bereitgestellt, die sich u.a. in verschiedene LMS integrieren lassen)
-3. [Nachnutzung der Folien](#Nachnutzung-der-Folien) (die Folien der Sitzungen werden als *Google Slides* bereitgestellt)
+1. [Nachnutzung einer Markdownfile](#nachnutzung-einer-markdownfile) (diese enthalten alle Elemente, Texte und Verlaufspläne, die sich auf der Website befinden)
+2. [Nachnutzung der H5P-Elemente](#nachnutzung-der-h5p-elemente) (die Aufgaben der Sitzungen werden als interaktive H5P-Elemente bereitgestellt, die sich u.a. in verschiedene LMS integrieren lassen)
+3. [Nachnutzung der Folien](#nachnutzung-der-folien) (die Folien der Sitzungen werden als *Google Slides* bereitgestellt)
 
 *Hinweis zu Markdown: Die Anmerkungen in GitHub sind lediglich Kommentare, die diverse Änderungen an den Dateien betreffen. Für Nutzer:innen sind sie irrelevant.*
 
