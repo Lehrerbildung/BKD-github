@@ -3,7 +3,10 @@ title: "Aufgaben zur Vorbereitung der 1. Sitzung"
 date: 2020-10-11T08:40:08+02:00
 weight: 6.1
 draft: false
-unlisted: true
+_build
+render: link
+list: never
+
 ---
 
 *Die folgenden Aufgaben sind für die Teilnehmenden des  Seminars ["Basiskompetenzen Digitalisierung“ für Lehramtsstudierende](https://univz.uni-goettingen.de/qisserver/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&veranstaltung.veranstid=262605), das im SoSe 2020 an der Universität Göttingen durchgeführt worden ist. Es ist im Zusatzangebot [Lehramt PluS](https://www.uni-goettingen.de/lehramtplus) angesiedelt und richtet sich fächerübergreifend an Lehramtsstudierende.*
