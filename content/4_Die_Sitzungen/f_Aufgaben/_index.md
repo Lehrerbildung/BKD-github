@@ -8,6 +8,6 @@ draft: false
 # Aufgaben der jeweiligen Sitzungen
 
 
-### [Session 2 - Persönliches Lernnetzwerk](https://lehrerbildung.github.io/4_die_sitzungen/f_aufgaben/Session2_Aufgaben)
-### [Session 6 - ](4_die_sitzungen/f_aufgaben/Session2_Aufgaben)
+### [Session 2 - Persönliches Lernnetzwerk](https://lehrerbildung.github.io/4_die_sitzungen/f_aufgaben/session2_aufgaben_h5p/)
+### [Session 6 - ](4_die_sitzungen/f_aufgaben/session6_aufgaben_h5p/)
 ### [Session 8 - ](https://lehrerbildung.github.io/6_nachnutzung/Session1_Aufgaben)

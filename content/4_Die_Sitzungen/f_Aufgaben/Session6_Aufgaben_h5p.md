@@ -2,7 +2,7 @@
 title: "Aufgaben zur Vorbereitung der 6. Sitzung"
 date: 2020-11-21T12:59:20+01:00
 draft: false
-weight: 6.66
+weight: 666
 ---
 
 <html>
