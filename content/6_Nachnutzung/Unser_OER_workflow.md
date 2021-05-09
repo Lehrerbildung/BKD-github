@@ -1,11 +1,9 @@
 ---
-title: "UNser OER Workflow"
+title: "Unser OER Workflow"
 date: 2020-10-11T12:51:53+02:00
 draft: false
 weight: 3
 ---
-
-# Workflow zur OER-Erstellung
 
 „Freie Bildung für alle" ist das Motto von OER, den Open Educational Resources. Offiziell werden diese wie folgt definiert:
 
