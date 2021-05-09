@@ -20,3 +20,7 @@
 </footer>
 
 {{ partial "footer.html" . }}
+
+{{ range .Site.Taxonomies.tag }}
+{{ if ne .Count 1 }}
+  {{ if ne .Page.Weight 88888888 }}
