@@ -1,5 +1,5 @@
 ---
-title: "Aufgaben zur Vorbereitung der 5. Sitzung"
+title: ""Aufgaben der 5. Sitzung"
 date: 2020-11-21T12:59:08+01:00
 draft: true
 weight: 6.5
