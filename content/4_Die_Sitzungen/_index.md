@@ -5,3 +5,14 @@ draft: false
 weight: 4
 
 ---
+
+<!-- Zum Dokument:
+
+Anlegen eines neuen Klappmenüs
+<details>
+    <summary><b>Überschrift</b></summary></li>  
+</details>
+
+Zeilenumbrüche in Klappmenüs (laufen in HTML...)
+<br></br>
+-->
