@@ -5,3 +5,5 @@ weight: 3
 chapter: true
 draft: false
 ---
+
+# Das Seminarkonzept
