@@ -9,9 +9,9 @@ weight: 3
 Um das vorgestellte Material selbst zu nutzen und in eigene Arbeiten einzubinden, stellen wir Ihnen hier einen erprobten Workflow vor.  
 Durch das Projekt werden drei unterschiedliche Verfahren zur Nachnutzung und Weiterarbeit bereitgestellt: 
 
-1. [Nachnutzung einer Markdownfile](#Nachnutzung-einer-Markdownfile) (diese enthalten alle Elemente, Texte und Verlaufspläne, die sich auf der Website befinden)
-2. [Nachnutzung der H5P-Elemente](#Nachnutzung-der-H5P-Elemente) (die Aufgaben der Sitzungen werden als interaktive H5P-Elemente bereitgestellt, die sich u.a. in verschiedene LMS integrieren lassen)
-3. [Nachnutzung der Folien](#Nachnutzung-der-Folien) (die Folien der Sitzungen werden als *Google Slides* bereitgestellt)
+1. **Nachnutzung einer Markdownfile** (diese enthalten alle Elemente, Texte und Verlaufspläne, die sich auf der Website befinden)
+2. **Nachnutzung der H5P-Elemente** (die Aufgaben der Sitzungen werden als interaktive H5P-Elemente bereitgestellt, die sich u.a. in verschiedene LMS integrieren lassen)
+3. **Nachnutzung der Folien** (die Folien der Sitzungen werden als *Google Slides* bereitgestellt)
 
 *Hinweis zu Markdown: Die Anmerkungen in GitHub sind lediglich Kommentare, die diverse Änderungen an den Dateien betreffen. Für Nutzer:innen sind sie irrelevant.*
 
@@ -63,7 +63,7 @@ b) In der heruntergeladenen Datei kann nun der Header, der mit "---" vom Dokumen
 - https://pandoc.org/ (vielseitiges Tool zur Dokumentumwandlung, eine Einarbeitung vor der Erstnutzung ist jedoch empohlen.)
 
 ## Nachnutzung der H5P-Elemente
-1. Sie finden unter jedem der H5P-Elemente einen Link zum Direktdownload. Wenn Sie das H5P-Element runtergeladen haben, können Sie es in ein Lernmanagementsystem (LMS), das über ein h5p-PlugIn verfügt, hochladen oder in einem H5P-Editor (z.B. mit [Lumi](https://next.lumi.education/) direkt auf dem eigenen Computer) bzw. online unter einstiegh5p.de testen und weiterbearbeiten . 
+1. Sie finden unter jedem der H5P-Elemente einen Link zum Direktdownload. Wenn Sie das H5P-Element runtergeladen haben, können Sie es in ein Lernmanagementsystem (LMS), das über ein h5p-PlugIn verfügt, hochladen oder in einem H5P-Editor (z.B. mit [Lumi](https://next.lumi.education/) direkt auf dem eigenen Computer) bzw. online unter [einstiegh5p.de](einstiegh5p.de) testen und weiterbearbeiten . 
 
 ![](https://pad.gwdg.de/uploads/upload_cc990f1c73ba2667c3c216deb90810ec.png)
 *Screenshot. Keine freie Lizenz.*
