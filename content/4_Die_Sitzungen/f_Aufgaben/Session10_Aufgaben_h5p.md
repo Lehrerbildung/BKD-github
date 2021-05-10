@@ -5,7 +5,7 @@ draft: true
 weight: 6010
 ---
 
-<!doctype html>
+<html>
             <html class="h5p-iframe">
             <head>
                 <meta charset="utf-8">                    
