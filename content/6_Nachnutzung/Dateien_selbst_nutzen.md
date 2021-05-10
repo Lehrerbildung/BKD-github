@@ -54,7 +54,7 @@ b) Ein Rechtsklick in der geöffneten Seite ermöglicht es, die Seite auf dem Co
 b) In der heruntergeladenen Datei kann nun der Header, der mit "---" vom Dokument abgetrennt ist, entfernt werden. Er ist nur für die Webdarstellung relevant.
   
 7. Nun kann die ursprüngliche "index.md"-Datei weitergenutzt werden. 
-* Für die weitere Bearbeitung bietet sich ein Programm an, das Markdown Code sowie das formatierte Ergebnis anzeigen kann (z.B. Atom Editor (+ Packages), dillinger.io). Es genügt auch ein normaler Editor, die Formatierung direkt überprüfen zu können erweist sich jedoch meist als hilfreich (wie z.B. im GWDG-Pad)
+* Für die weitere Bearbeitung bietet sich ein Programm an, das Markdown Code sowie das formatierte Ergebnis anzeigen kann (z.B. Atom Editor (+ Packages), [dillinger.io](https://dillinger.io/). Es genügt auch ein normaler Editor, die Formatierung direkt überprüfen zu können erweist sich jedoch meist als hilfreich (wie z.B. im GWDG-Pad)
 * Beispiele für die Weiterverwendung der "index.md"-Datei sind die Umwandlung zu Word oder PDF Dokumenten (manuell oder mit entsprechender Software, s.u.)
 
 *Hinweis: Die nachfolgenden Beispiele zur weiteren Nachnutzung unterliegen eigenen Nutzungs- und Datenschutzbestimmungen und sind in keiner Weise mit dieser Website verbunden*:
