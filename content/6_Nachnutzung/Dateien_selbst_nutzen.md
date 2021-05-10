@@ -9,9 +9,9 @@ weight: 3
 Um das vorgestellte Material selbst zu nutzen und in eigene Arbeiten einzubinden, stellen wir Ihnen hier einen erprobten Workflow vor.  
 Durch das Projekt werden drei unterschiedliche Verfahren zur Nachnutzung und Weiterarbeit bereitgestellt: 
 
-1. [Nachnutzung einer Markdownfile](#nachnutzung-einer-markdownfile) (diese enthalten alle Elemente, Texte und Verlaufspläne, die sich auf der Website befinden)
-2. [Nachnutzung der H5P-Elemente](#nachnutzung-der-h5p-elemente) (die Aufgaben der Sitzungen werden als interaktive H5P-Elemente bereitgestellt, die sich u.a. in verschiedene LMS integrieren lassen)
-3. [Nachnutzung der Folien](#nachnutzung-der-folien) (die Folien der Sitzungen werden als *Google Slides* bereitgestellt)
+1. [Nachnutzung einer Markdownfile](#Nachnutzung-einer-Markdownfile) (diese enthalten alle Elemente, Texte und Verlaufspläne, die sich auf der Website befinden)
+2. [Nachnutzung der H5P-Elemente](#Nachnutzung-der-H5P-Elemente) (die Aufgaben der Sitzungen werden als interaktive H5P-Elemente bereitgestellt, die sich u.a. in verschiedene LMS integrieren lassen)
+3. [Nachnutzung der Folien](#Nachnutzung-der-Folien) (die Folien der Sitzungen werden als *Google Slides* bereitgestellt)
 
 *Hinweis zu Markdown: Die Anmerkungen in GitHub sind lediglich Kommentare, die diverse Änderungen an den Dateien betreffen. Für Nutzer:innen sind sie irrelevant.*
 
@@ -21,7 +21,7 @@ Durch das Projekt werden drei unterschiedliche Verfahren zur Nachnutzung und Wei
 
 ![](https://pad.gwdg.de/uploads/upload_92b536d869039b172e3a4dd50dcd5fb1.png)
 *Screenshot. Keine freie Lizenz.*
-1. Klicken Sie auf den Reiter *Content* unter *MORE*  in der linken Sidebar. Hierdurch werden Sie auf die GitHub-Seite weitergeleitet, die den gesamten Content der Seite enthält. 
+1. Klicken Sie auf den Reiter *Content* unter *MEHR*  in der linken Sidebar. Hierdurch werden Sie auf die GitHub-Seite weitergeleitet, die den gesamten Content der Seite enthält. 
 2. Auf der GitHub-Seite finden Sie das Lehr-Lernmaterial im Ordner *content*.
  
 ![](https://pad.gwdg.de/uploads/upload_25e3793dacd79069b824a687bf69fb56.png)
@@ -49,7 +49,8 @@ b) Ein Rechtsklick in der geöffneten Seite ermöglicht es, die Seite auf dem Co
 
 6. a) Sobald Sie den unformatierten Text in ein neues Pad übertragen haben, können Sie mit der Weiterbearbeitung und Nachnutzung beginnen: 
 ![](https://pad.gwdg.de/uploads/upload_a96e75e27aa76933359002c97ae4e33b.gif)
-*Screenshot. Keine freie Lizenz.*
+*Screenshot. Keine freie Lizenz.*<br>
+*Hinweis: Wenn Sie an einer Hochschule beschäftigt sind, können Sie sich mit Ihrer Mailadresse ebenfalls bei pad.gwdg.de anmelden. Klicken Sie hierfür auf "Einloggen", "Förderierte Anmeldung".*<br>
 b) In der heruntergeladenen Datei kann nun der Header, der mit "---" vom Dokument abgetrennt ist, entfernt werden. Er ist nur für die Webdarstellung relevant.
   
 7. Nun kann die ursprüngliche "index.md"-Datei weitergenutzt werden. 
@@ -62,7 +63,7 @@ b) In der heruntergeladenen Datei kann nun der Header, der mit "---" vom Dokumen
 - https://pandoc.org/ (vielseitiges Tool zur Dokumentumwandlung, eine Einarbeitung vor der Erstnutzung ist jedoch empohlen.)
 
 ## Nachnutzung der H5P-Elemente
-1. Sie finden unter jedem der H5P-Elemente einen Link zum Direktdownload. Wenn Sie das H5P-Element runtergeladen haben, können Sie es in ein Lernmanagementsystem (LMS) einbetten oder in einem H5P-Editor (z.B. mit [Lumi](https://next.lumi.education/) direkt auf dem eigenen Computer) weiterbearbeiten. 
+1. Sie finden unter jedem der H5P-Elemente einen Link zum Direktdownload. Wenn Sie das H5P-Element runtergeladen haben, können Sie es in ein Lernmanagementsystem (LMS), das über ein h5p-PlugIn verfügt, hochladen oder in einem H5P-Editor (z.B. mit [Lumi](https://next.lumi.education/) direkt auf dem eigenen Computer) bzw. online unter einstiegh5p.de testen und weiterbearbeiten . 
 
 ![](https://pad.gwdg.de/uploads/upload_cc990f1c73ba2667c3c216deb90810ec.png)
 *Screenshot. Keine freie Lizenz.*

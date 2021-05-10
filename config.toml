@@ -24,7 +24,7 @@ home = [ "HTML", "RSS", "JSON"]
 [[menu.shortcuts]] 
 	name = "<i class='fas fa-book'></i></i> Content"
 	identifier = "content"
-	url = "https://github.com/Lehrerbildung/BKD"
+	url = "https://github.com/Lehrerbildung/BKD-github"
 	weight = 10
 
 # [[menu.shortcuts]] 
