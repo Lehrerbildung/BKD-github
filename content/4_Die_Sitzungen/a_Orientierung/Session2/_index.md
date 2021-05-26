@@ -7,7 +7,7 @@ weight: 2
 
 
 ## Einordnung 
-**Kontext**
+**Kontext**  
 Ziel der **einführenden Sitzungen 01 bis 03** ist es, zunächst einen Überblick über das Themenfeld zu erhalten (01), um anschließend  aus einer individuellen (02) sowie einer gesellschaftlichen Perspektive (03) auf die digitale Transformation zu schauen. Bisher wurden folgende Seminarsitzungen absolviert:
 
 * 01 **Bildung in der digitalen Welt - Eine Einführung**: In der 02. Sitzung soll sich der behandelte Lerngegenstand (PLN), mit den entsprechenden Lehr- und Lernaktivitäten decken [(didaktischer Doppeldecker)](http://www.hochschuldidaktik.uzh.ch/dam/jcr:ffffffff-9a08-8cca-0000-000074ad5774/A_Z_Doppeldecker_17_08_2011.pdf)
