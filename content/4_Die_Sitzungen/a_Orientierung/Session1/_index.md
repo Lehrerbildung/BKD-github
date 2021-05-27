@@ -28,7 +28,7 @@ Das Seminar ist Teil des gleichnamigen Niedersächsischen Verbundprojektes [Basi
 
 Eine Woche vor Seminarbeginn haben die Studierenden die Aufgaben der nächsten Seite erhalten:
 
- [Schnelllink](https://lehrerbildung.github.io/die_lehrveranstaltung_basiskompetenzen_digitalisierung/session1/session1_aufgaben/)
+ [Schnelllink](session1_aufgaben_h5p/)
 
 
 ## Ablaufplanung für den 21.04.2020
