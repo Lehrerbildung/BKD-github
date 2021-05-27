@@ -2,7 +2,7 @@
 title: "Aufgaben der 6. Sitzung"
 date: 2020-11-21T12:59:20+01:00
 draft: false
-weight: 666
+weight: 7
 ---
 
 [Direktdownload der H5P Datei](https://github.com/Lehrerbildung/BKD-github/raw/main/content/h5pElemente/6-codes.h5p)

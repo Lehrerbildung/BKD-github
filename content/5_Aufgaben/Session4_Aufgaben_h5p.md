@@ -2,7 +2,7 @@
 title: "Aufgaben der 4. Sitzung"
 date: 2020-11-21T12:59:02+01:00
 draft: false
-weight: 6.4
+weight: 5
 ---
 
 

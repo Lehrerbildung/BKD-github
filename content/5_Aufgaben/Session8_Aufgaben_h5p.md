@@ -1,7 +1,7 @@
 ---
 title: "Aufgaben der 8. Sitzung"
 date: 2020-11-14T10:25:55+01:00
-weight: 688
+weight: 9
 draft: false
 ---
 
