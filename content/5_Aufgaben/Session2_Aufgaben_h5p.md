@@ -2,7 +2,7 @@
 title: "Aufgaben der 2. Sitzung"
 date: 2020-11-21T12:58:50+01:00
 draft: false
-weight: 622
+weight: 3
 ---
 
 [Direktdownload der H5P Datei](https://github.com/Lehrerbildung/BKD-github/raw/main/content/h5pElemente/2-persoenliches_Lernnetzwerk.h5p)
