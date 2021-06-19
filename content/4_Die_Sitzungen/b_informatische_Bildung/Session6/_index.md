@@ -5,30 +5,44 @@ draft: false
 weight: 6
 ---
 
+![](https://raw.githubusercontent.com/Lehrerbildung/Lehrerbildung.github.io/master/GenutzteBilder/Steckbriefe/steckbrief_6.png)
+
+
+
+**Links für den direkten Download der Seminarmaterialien:**
+
+* [Ablaufplan als Markdowndatei](https://)
+* [Ablaufplan als PDF-Datei](https://)
+* [Aufgaben als H5P-Element](https://github.com/Lehrerbildung/BKD-github/raw/main/content/h5pElemente/6-codes.h5p)
+* [Folien als Google Slides](https://)
+
+
+
 
 ## Einordnung 
 
 
-**Kontext** 
-Ziel der **Informatik-Sitzungen** **04 bis 07** (vgl. [Seminarkonzept](https://lehrerbildung.github.io/3_-seminarkonzept/)) ist es, dass die Studierenden sowohl informatische Grundkenntnisse erwerben, als auch mögliche didaktische Szenarien für den Einsatz in der Schule kennenlernen. Bisher wurden folgende Seminarsitzungen der Einheit absolviert:<br></br> **04 Informationsübertragung - Vom Blinzeln zum Verschlüsseln** 
-**05 Das Internet**   
- 
- **Zielgruppe**: Lehramtsstudierende (fächer- und lehramtsübergreifend) 
+**Kontext**  
+*Einen Überblick über das gesamte Seminarkonzept bietet [dieser Advance Organizer](https://lehrerbildung.github.io/3_-seminarkonzept/ueberblick/)*
 
- **Zeitlicher Bedarf**:  Selbststudium (ca. 30min) und Videokonferenz (ca. 80min)  
+Ziel der **Informatik-Sitzungen** **04 bis 07** (vgl. [Seminarkonzept](https://lehrerbildung.github.io/3_-seminarkonzept/)) ist es, dass die Studierenden sowohl informatische Grundkenntnisse erwerben, als auch mögliche didaktische Szenarien für den Einsatz in der Schule kennenlernen. Bisher wurden folgende Seminarsitzungen der Einheit absolviert:
+* **04 Informationsübertragung - Vom Blinzeln zum Verschlüsseln** 
+* **05 Das Internet**   
  
- **Bezüge zu DigCompEdu** 
+
+ 
+ **Bezüge zu [DigCompEdu](https://ec.europa.eu/jrc/en/digcompedu)**   
 *  ***3.1*** Neue Formate und didaktische Methoden für den Unterricht entwickeln und ausprobieren 
 *  ***1.4*** Digitale Medien für die berufliche Weiterentwicklung nutzen 
 *  ***2.3*** Digitale Inhalte organisieren und Lernenden, Eltern und anderen Lehrenden zur Verfügung stellen 
 *   ***1.3*** Die eigene Praxis hinsichtlich des didaktisch sinnvollen Einsatzes digitaler Medien reflektieren    
 
-**Bezüge zum Kompetenzrahmen *[Lehrkräftebildung in der digital vernetzten Welt](http://www.lehrerbildungsverbund-niedersachsen.de/index.php?s=KompetenzrahmenLehrkraeftebildunginderdigitalvernetztenWelt)*** 
+**Bezüge zum Kompetenzrahmen *[Lehrkräftebildung in der digital vernetzten Welt](http://www.lehrerbildungsverbund-niedersachsen.de/index.php?s=KompetenzrahmenLehrkraeftebildunginderdigitalvernetztenWelt)***   
 * Kompetenzbereich F (Fundament): Informatische Grundbildung
-* Kompetenzbeereich G (Unterrichtsgegenstand): Entwicklung didaktischer Szenarien
+* Kompetenzbeereich G (Unterrichtsgegenstand): Entwicklung didaktischer Szenarien zum digitalisierungsbezogenen Phänomen Codes
 * Kompetenzbereich R (Reflexion): Diskussion der gesellschaftlich-kulturellen Perspektive
 
-**Lernziele** 
+**Lernziele**   
 Die Studierenden...  
 * lernen computergestütze Codierungs- und Decodierungssysteme kennen  
 * verstehen den Aufbau und die Funktionsweise von Bar- und QR-Codes  
@@ -37,17 +51,21 @@ Die Studierenden...
 
 
 
-## Aufgaben zur Vorbereitung der 06. Sitzung
+## Vorbereitung der 06. Sitzung
 
+### Informationen für Lehrende
+* Erstellen Sie sich einen Flinga-Account und klonen Sie sich das [Flinga-Board](https://flinga.fi/s/F5TKF8P)
+* Alternativ können Sie die Gruppenarbeitsphase auch mit einem [Padlet](https://padlet.com) durchführen
+
+### Aufgaben
 Eine Woche vor der Seminarbeginn stellen Sie den Studierenden die folgenden  Aufgabe per Link zur Verfügung
 
-* [Aufgaben](https://lehrerbildung.github.io/4_die_sitzungen/f_aufgaben/)
-* [Downloadlink für das h5p-Elment zum Einfügen in ein lokales LMS](https://github.com/Lehrerbildung/BKD-github/raw/main/content/h5pElemente/6-codes.h5p) 
+* [Aufgaben](https://lehrerbildung.github.io/5_aufgaben/session6_aufgaben_h5p/)
 
 
-### Ablaufplanung
+## Ablaufplanung
 
-*Die Präsentation zur folgenden Sitzung ist online verfügbar als [PDF](https:) und als [Google Slides](https://docs.google.com/presentation/d/1N4XEr2nhf4envcZThJCrupA1zrWTEQvWx2PJHl90Qy4/edit?usp=sharing).*
+*Die Präsentation zur folgenden Sitzung ist online verfügbar als [Google Slides](https://docs.google.com/presentation/d/1N4XEr2nhf4envcZThJCrupA1zrWTEQvWx2PJHl90Qy4/edit?usp=sharing).*
 
 | Phase | Seminargeschehen | Sozialform/Methode | Material & Anmerkungen |
 | -------- | -------- | -------- | -------- |
@@ -72,13 +90,9 @@ Eine Woche vor der Seminarbeginn stellen Sie den Studierenden die folgenden  Auf
 
 
 
-<center>
-
-## Lizenz
-*Autor:* Mike Grauer & [Torben Mau](https://twitter.com/torbenmau)
+## Lizenz  
+*Autor:innen:* Mike Grauer & [Torben Mau](https://twitter.com/torbenmau) für [Niedersächsisches Verbundprojekt “Basiskompetenzen Digitalisierung”](http://www.lehrerbildungsverbund-niedersachsen.de/index.php?s=ProjektBasiskompetenzenDigitalisierung)
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br/><p>Die Inhalte dieser Seite sind, sofern nicht anders angegeben, nach <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons 4.0</a> Attribution lizenziert.</p>
 
-
-</center>
