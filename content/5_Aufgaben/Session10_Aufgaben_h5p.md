@@ -1,5 +1,5 @@
 ---
-title: "Aufgaben der 10. Sitzung"
+title: "10 Medienpäd. Projekt II - Erstellung einer pädagogischen Strategie mit dem ABC Workshop Format"
 date: 2020-11-21T12:59:24+01:00
 draft: false
 weight: 11

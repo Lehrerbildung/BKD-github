@@ -1,5 +1,5 @@
 ---
-title: "Aufgaben der 2. Sitzung"
+title: "02 Persönliches Lernnetzwerk (PLN) / Informations- und Medienkompetenz"
 date: 2020-11-21T12:58:50+01:00
 draft: false
 weight: 3

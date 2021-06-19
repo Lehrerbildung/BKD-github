@@ -1,5 +1,5 @@
 ---
-title: "Aufgaben der 7. Sitzung"
+title: "07 Informatische Bildung - Leichter Programmiereinstieg"
 date: 2020-11-21T12:59:24+01:00
 draft: false
 weight: 8

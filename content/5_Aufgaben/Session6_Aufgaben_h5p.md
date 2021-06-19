@@ -1,5 +1,5 @@
 ---
-title: "Aufgaben der 6. Sitzung"
+title: "06 Informatische Bildung - Codes"
 date: 2020-11-21T12:59:20+01:00
 draft: false
 weight: 7

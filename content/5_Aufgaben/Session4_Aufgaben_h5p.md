@@ -1,5 +1,5 @@
 ---
-title: "Aufgaben der 4. Sitzung"
+title: "04 Informatische Bildung - Informationsübertragung"
 date: 2020-11-21T12:59:02+01:00
 draft: false
 weight: 5

@@ -1,5 +1,5 @@
 ---
-title: "Aufgaben der 5. Sitzung"
+title: "05 Informatische Bildung - Das Internet"
 date: 2020-11-21T12:59:08+01:00
 draft: false
 weight: 6
