@@ -7,15 +7,16 @@ draft: false
 
 <!-- Kurzverlinkung wie bei 6 möglich !-->
 
-### [Sitzung 1 - Bildung in der digitalen Welt](session1_aufgaben_h5p/)
-### [Sitzung 2 - Persönliches Lernnetzwerk](session2_aufgaben_h5p/)
-### [Sitzung 3 - Die digitale Transformation im gesellschaftlichen Kontext](session3_aufgaben_h5p/)
-### [Sitzung 4 - Informationsübertragung](session4_aufgaben_h5p/)
-### [Sitzung 5 - Das Internet](session5_aufgaben_h5p/)
-### [Sitzung 6 - Codes](session6_aufgaben_h5p/)
-### [Sitzung 7 - Informatische Bildung](session7_aufgaben_h5p/)
-### [Sitzung 8 - Medienreflexion](session8_aufgaben_h5p/)
-### [Sitzung 9 - Medienpädagogik I](session9_aufgaben_h5p/)
-### [Sitzung 10 - Medienpädagogik II - ABC](session10_aufgaben_h5p/
-### [Sitzung 11 - Medienpädagogik III](session11_aufgaben_h5p/)
-### [Sitzung 12 - Medienpädagogik IV](session12_aufgaben_h5p/))
+### [01 Einführung - Bildung in der digitalen Welt](session1_aufgaben_h5p/)
+### [02 Persönliches Lernnetzwerk (PLN) / Informations- und Medienkompetenz](session2_aufgaben_h5p/)
+### [03 Die digitale Transformation im gesellschaftlichen Kontext](session3_aufgaben_h5p/)
+### [04 Informatische Bildung - Informationsübertragung](session4_aufgaben_h5p/)
+### [05 Informatische Bildung - Das Internet](session5_aufgaben_h5p/)
+### [06 Informatische Bildung - Codes](session6_aufgaben_h5p/)
+### [07 Informatische Bildung - Leichter Programmiereinstieg](session7_aufgaben_h5p/)
+### [08 Medienwissenschaft - Medienreflexion](session8_aufgaben_h5p/)
+### [09 Medienpäd. Projekt I - Recherche](session9_aufgaben_h5p/)
+### [10 Medienpäd. Projekt II - Erstellung einer pädagogischen Strategie mit dem ABC Workshop Format](session10_aufgaben_h5p/)
+### [11 Medienpäd. Projekt III - Hacking It! - Umsetzung in einem LMS](session11_aufgaben_h5p/)
+### [12 Medienpäd. Projekt IV - Ergebnispräsentation](session12_aufgaben_h5p/))
+### [13 Schulentwicklung & Abschluss](session13_aufgaben_h5p/))
