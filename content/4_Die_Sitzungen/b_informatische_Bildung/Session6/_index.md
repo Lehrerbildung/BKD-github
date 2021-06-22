@@ -74,7 +74,7 @@ Eine Woche vor der Seminarbeginn stellen Sie den Studierenden die folgenden  Auf
 | 15 min | **Input:** <br></br> • QR-Codes aus technologischer Perspektive -- Aufbau aus Sicht der Informatik | Vortrag (15min) | Folie 8-15 mit Hilfe von [M2](https://www.swisseduc.ch/informatik/theoretische_informatik/information_qr_code/docs/information_qr_code.pdf) erstellt |
 | 40 min | **Erarbeitung I** <br></br> • QR-Codes aus anwendugsorientierter Perspektive -- Erstellung und Nutzung im Unterricht   | GA (20min) | Dokumentation der Arbeitsergebnisse im [Flinga-Board](https://flinga.fi/s/F5TKF8P) (oder einem ähnlichen Tool)| 
 | 20 min | **Erarbeitung II**<br></br>• Codes aus gesellschaftlich-kultureller Perspektive -- Diskussion zu Datenschutz und dem gesellschaftlichen Diskurs | Vortrag (10min) <br></br>Plenumsgespräch (10min) | Meinungsbild per digitalem Tool des Konferenzraums von den Lernenden eintragen, Positionen anschließend begründen lassen. Abschließend Dagstuhl-Dreieck rekapitulieren    |
-| (15.35 bis 15.45) | **Evaluation & Ausblick**: <br></br>•Zielscheibenevaluation, Mentimeter <br></br>•Ausblick: Warum brauchen wir informatische Grundbildung zum Thema Codes? |  | Evaluation via [Oncoo](https://oncoo.de/oncoo.php) und [Mentimeter](https://www.mentimeter.com)  <br></br> Ausblick via [M3](https://www.youtube.com/watch?v=Om9fZp-jdQQ&t=50s) |
+| 10 min | **Evaluation & Ausblick**: <br></br>•Zielscheibenevaluation, Mentimeter <br></br>•Ausblick: Warum brauchen wir informatische Grundbildung zum Thema Codes? |  | Evaluation via [Oncoo](https://oncoo.de/oncoo.php) und [Mentimeter](https://www.mentimeter.com)  <br></br> Ausblick via [M3](https://www.youtube.com/watch?v=Om9fZp-jdQQ&t=50s) |
 
 
 
