@@ -18,5 +18,5 @@ draft: false
 ### [09 Medienpäd. Projekt I - Recherche](session9_aufgaben_h5p/)
 ### [10 Medienpäd. Projekt II - Erstellung einer pädagogischen Strategie mit dem ABC Workshop Format](session10_aufgaben_h5p/)
 ### [11 Medienpäd. Projekt III - Hacking It! - Umsetzung in einem LMS](session11_aufgaben_h5p/)
-### [12 Medienpäd. Projekt IV - Ergebnispräsentation](session12_aufgaben_h5p/))
-### [13 Schulentwicklung & Abschluss](session13_aufgaben_h5p/))
+### [12 Medienpäd. Projekt IV - Ergebnispräsentation](session12_aufgaben_h5p/)
+### [13 Schulentwicklung & Abschluss](session13_aufgaben_h5p/)
