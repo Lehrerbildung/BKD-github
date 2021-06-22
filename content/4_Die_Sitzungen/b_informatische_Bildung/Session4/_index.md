@@ -1,7 +1,7 @@
 ---
 title: "04 Informationsübertragung"
 date: 2020-11-21T12:59:38+01:00
-draft: true
+draft: false
 weight: 4
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "10 Medienpädagogik II - Lernaktivitäten planen mit dem ABC Workshop Format"
+title: "10 Erstellung einer pädagogischen Strategie mit dem ABC Workshop Format"
 date: 2020-11-21T12:59:46+01:00
 draft: false
 weight: 10
