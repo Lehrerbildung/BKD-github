@@ -7,7 +7,7 @@ draft: false
 
 <!-- Kurzverlinkung wie bei 6 möglich !-->
 
-### [01 Orientierung - Einführung - Bildung in der digitalen Welt](session1_aufgaben_h5p/)
+### [01 Orientierung - Bildung in der digitalen Welt](session1_aufgaben_h5p/)
 ### [02 Orientierung - Persönliches Lernnetzwerk (PLN) / Informations- und Medienkompetenz](session2_aufgaben_h5p/)
 ### [03 Orientierung - Die digitale Transformation im gesellschaftlichen Kontext](session3_aufgaben_h5p/)
 ### [04 Informatische Bildung - Informationsübertragung](session4_aufgaben_h5p/)
