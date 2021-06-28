@@ -22,12 +22,12 @@ home = [ "HTML", "RSS", "JSON"]
   # Author of the site, will be used in meta information
   author = "Leibniz School of Education"
 
-#Aktivieren der landing page
+  # Aktivieren der landing page
   disableLandingPage = false
 
   # If set to false, a Home button will appear below the search bar on the menu.
   # It is redirecting to the landing page of the current language if specified. (Default is "/")
-  disableLandingPageButton = true
+  disableLandingPageButton = false
   
 [[menu.shortcuts]] 
 	name = "<i class='fas fa-book'></i></i> Content"
