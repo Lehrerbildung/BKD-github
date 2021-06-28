@@ -7,7 +7,7 @@ draft: false
 
 Das Ziel des hochschulübergreifend entwickelten und praxiserprobten Seminarkonzepts "Basiskompetenzen Digitalisierung" ist es, Orientierungswissen aus allen fünf skizzierten Kompetenzbereichen des Kompetenzrahmens (F, R, G, M, E) zu adressieren. Es zeigt somit beispielhaft auf, welche digitalisierungsbezogenen Basiskompetenzen, die alle (angehenden) Lehrkräfte erwerben sollten, sich aus dem Kompetenzrahmen destillieren lassen und wie diese gefördert werden können. 
 
-![image alt text](https://raw.githubusercontent.com/Lehrerbildung/BKD-github/main/content/GenutzteBilder/seminarkonzept.jpg)
+![image alt text](https://raw.githubusercontent.com/Lehrerbildung/BKD-github/main/static/images/seiteninhalt/Organizer.jpg)
 
 *   Abb.2:  Seminarkonzept des Verbundprojekts "Basiskompetenzen Digitalisierung" *
 
