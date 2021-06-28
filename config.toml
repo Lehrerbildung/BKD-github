@@ -18,8 +18,12 @@ home = [ "HTML", "RSS", "JSON"]
   # Useful to give opportunity to people to create merge request for your doc.
   # See the config.toml file from this documentation site to have an example.
   editURL = "https://github.com/Lehrerbildung/BKD-github/tree/master/content/"
+
   # Author of the site, will be used in meta information
   author = "Leibniz School of Education"
+
+#Aktivieren der landing page
+  disableLandingPage = false
 
   # If set to false, a Home button will appear below the search bar on the menu.
   # It is redirecting to the landing page of the current language if specified. (Default is "/")
