@@ -23,7 +23,7 @@ home = [ "HTML", "RSS", "JSON"]
   author = "Leibniz School of Education"
 
   # Aktivieren der landing page
-  disableLandingPage = false
+  disableLandingPage = true
 
   # If set to false, a Home button will appear below the search bar on the menu.
   # It is redirecting to the landing page of the current language if specified. (Default is "/")
