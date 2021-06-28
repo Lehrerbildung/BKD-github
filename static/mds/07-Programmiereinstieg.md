@@ -1,10 +1,10 @@
 
 # 07 Leichter Programmiereinstieg
 
-<img src="https://raw.githubusercontent.com/Lehrerbildung/Lehrerbildung.github.io/master/GenutzteBilder/Steckbriefe/steckbrief_07.jpg" alt="" style="width:600px;"> 
+<img src="https://github.com/Lehrerbildung/BKD-github/raw/main/content/GenutzteBilder/Steckbriefe/steckbrief_7.jpg" alt="" style="width:600px;"> 
 
 **Links für den direkten Download der Seminarmaterialien**:
-* [Ablaufplan als Markdowndatei](https://github.com/Lehrerbildung/BKD-github/raw/main/content/mds/07-Programmiereinstieg.md)
+* [Ablaufplan als Markdowndatei](https://raw.githubusercontent.com/Lehrerbildung/BKD-github/main/static/mds/07-programmiereinstieg.md)
 * [Ablaufplan als PDF-Datei](https://github.com/Lehrerbildung/BKD-github/raw/main/content/PDFs/07-programmiereinstieg.pdf)
 * [Aufgaben als H5P-Element](https://github.com/Lehrerbildung/BKD-github/raw/main/content/h5pElemente/07-leichter-programmiereinstieg.h5p)
 * [Folien als Google Slides](https://docs.google.com/presentation/d/1JDUfDQMIoYH3-pqv_m8V9A5EzZc3jrTz2_gzdKXgROE/edit?usp=sharing)
