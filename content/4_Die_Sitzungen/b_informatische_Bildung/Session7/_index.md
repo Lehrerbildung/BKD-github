@@ -5,9 +5,6 @@ draft: false
 weight: 7
 ---
 
-
-# 07 Leichter Programmiereinstieg
-
 ![](https://raw.githubusercontent.com/Lehrerbildung/Lehrerbildung.github.io/master/GenutzteBilder/Steckbriefe/steckbrief_7.jpg)
 
 
