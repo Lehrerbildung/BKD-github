@@ -21,7 +21,7 @@ Ich wünsche Ihnen viel Spaß und neue Erkenntnisse!
 Torben Mau 
 *(Projektkoordinator des Verbundprojektes)*
 
-<img src="https://raw.githubusercontent.com/Lehrerbildung/BKD-github/main/static/images/seiteninhalt/TorbenMau.png" alt="" style="width:400px;">
+<img src="https://raw.githubusercontent.com/Lehrerbildung/BKD-github/main/static/images/seiteninhalt/TorbenMau.png" alt="Torben Mau" style="width:450px;height:500px;">
 
 
 ## Teilen, nutzen und verbessern Sie diese Materialien!
