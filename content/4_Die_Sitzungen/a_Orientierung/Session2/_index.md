@@ -8,7 +8,7 @@ weight: 2
 ![](https://raw.githubusercontent.com/Lehrerbildung/Lehrerbildung.github.io/master/GenutzteBilder/Steckbriefe/steckbrief_2.png)
 
 **Links für den direkten Download der Seminarmaterialien**:
-* [Ablaufplan als Markdowndatei](https://raw.githubusercontent.com/Lehrerbildung/BKD-github/main/static/mds/2-PLN.md) - Rechtsklick auf den Plaintext ermöglicht Download
+* [Ablaufplan als Markdowndatei](https://raw.githubusercontent.com/Lehrerbildung/BKD-github/main/static/mds/2-PLN.md)
 * [Ablaufplan als PDF-Datei](https://github.com/Lehrerbildung/BKD-github/raw/main/content/PDFs/2-PLN.pdf)
 * [Aufgaben als H5P-Element](https://github.com/Lehrerbildung/BKD-github/raw/main/content/h5pElemente/2-PLN.h5p)
 * [Folien als Google Slides](https://docs.google.com/presentation/d/1DgFsmLRMPLphKLNKLPA7UxbUlG_rG2J2pNxoQZ69JMw/edit#slide=id.ga0d6d317d2_0_2)
