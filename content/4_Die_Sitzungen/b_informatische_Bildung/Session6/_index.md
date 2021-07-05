@@ -11,9 +11,9 @@ weight: 6
 
 **Links für den direkten Download der Seminarmaterialien:**
 
-* [Ablaufplan als Markdowndatei](https://raw.githubusercontent.com/Lehrerbildung/BKD-github/main/static/mds/6-codes.md) - Rechtsklick auf den Plaintext ermöglicht Download
+* [Ablaufplan als Markdowndatei](https://raw.githubusercontent.com/Lehrerbildung/BKD-github/main/static/mds/6-codes.md)
 * [Ablaufplan als PDF-Datei](https://github.com/Lehrerbildung/BKD-github/raw/main/content/PDFs/6-codes.pdf)
-* [Aufgaben als H5P-Element](https://github.com/Lehrerbildung/BKD-github/raw/main/content/h5pElemente/6-codes.h5p)
+* [Aufgaben als H5P-Element](https://github.com/Lehrerbildung/BKD-github/raw/main/content/h5pElemente/6-Codes.h5p)
 * [Folien als Google Slides](https://docs.google.com/presentation/d/1N4XEr2nhf4envcZThJCrupA1zrWTEQvWx2PJHl90Qy4/edit?usp=sharing)
 
 

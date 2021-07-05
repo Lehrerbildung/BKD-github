@@ -8,9 +8,9 @@ weight: 5
 
 **Links für den direkten Download der Seminarmaterialien:**
 
-* [Ablaufplan als Markdowndatei](https://) 
-* [Ablaufplan als PDF-Datei](https://)
-* [Aufgaben als H5P-Element](https://lehrerbildung.github.io/5_aufgaben/session5_aufgaben_h5p/)
+* [Ablaufplan als Markdowndatei](https://raw.githubusercontent.com/Lehrerbildung/BKD-github/main/static/mds/5-Internet.md)
+* [Ablaufplan als PDF-Datei](https://github.com/Lehrerbildung/BKD-github/raw/main/content/PDFs/5-Internet.pdf)
+* [Aufgaben als H5P-Element](https://github.com/Lehrerbildung/BKD-github/raw/main/content/h5pElemente/5-Internet.h5p)
 * [Folien als Google Slides](https://docs.google.com/presentation/d/1f6emDYfYWQ1UUpBUEgDRv7aCfeVKHOJZMvMbORd52WE/edit?usp=sharing)
 
 

@@ -6,11 +6,11 @@ weight: 9
 ---
 
 **Links für den direkten Download der Seminarmaterialien**:
-* [Ablaufplan als Markdowndatei]()
-* [Ablaufplan als PDF]() 
-* [Aufgaben als H5P-Element](https://lehrerbildung.github.io/5_aufgaben/session9_aufgaben_h5p/)
+
+* [Ablaufplan als Markdowndatei](https://raw.githubusercontent.com/Lehrerbildung/BKD-github/main/static/mds/9-Recherche.md)
+* [Ablaufplan als PDF-Datei](https://github.com/Lehrerbildung/BKD-github/raw/main/content/PDFs/9-Recherche.pdf)
+* [Aufgaben als H5P-Element](https://github.com/Lehrerbildung/BKD-github/raw/main/content/h5pElemente/9-Recherche.h5p)
 * [Folien als Google Slides](https://docs.google.com/presentation/d/1HFnxafUx7LdL8vsarUNpAGdCRrVOwAB3WV9O2al8YbU/edit?usp=sharing)
-<!-- -->
 
 ## Einordnung 
 **Kontext**   

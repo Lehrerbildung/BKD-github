@@ -7,8 +7,9 @@ weight: 3
 
 **Links für den direkten Download der Seminarmaterialien:**
 
-* [Ablaufplan als Markdowndatei](https://)
-* [Ablaufplan als PDF-Datei](https://)
+* [Ablaufplan als Markdowndatei](https://raw.githubusercontent.com/Lehrerbildung/BKD-github/main/static/mds/4-InfoÜbertragung.md)
+* [Ablaufplan als PDF-Datei](https://github.com/Lehrerbildung/BKD-github/raw/main/content/PDFs/4-InfoÜbertragung.pdf)
+* [Aufgaben als H5P-Element](https://github.com/Lehrerbildung/BKD-github/raw/main/content/h5pElemente/4-InfoÜbertragung.h5p)
 * [Aufgaben als Trello-Board](https://trello.com/b/9Yx0f0ve/basiskompdigi-03-dig-transformation-nach-einem-konzept-von-anja-c-wagner)
 
 
