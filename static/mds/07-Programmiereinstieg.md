@@ -6,7 +6,7 @@
 **Links für den direkten Download der Seminarmaterialien**:
 * [Ablaufplan als Markdowndatei](https://raw.githubusercontent.com/Lehrerbildung/BKD-github/main/static/mds/07-programmiereinstieg.md)
 * [Ablaufplan als PDF-Datei](https://github.com/Lehrerbildung/BKD-github/raw/main/content/PDFs/07-programmiereinstieg.pdf)
-* [Aufgaben als H5P-Element](https://github.com/Lehrerbildung/BKD-github/raw/main/content/h5pElemente/07-leichter-programmiereinstieg.h5p)
+* [Aufgaben als H5P-Element](https://github.com/Lehrerbildung/BKD-github/raw/main/content/h5pElemente/07-ProgrammierEinstieg.h5p)
 * [Folien als Google Slides](https://docs.google.com/presentation/d/1JDUfDQMIoYH3-pqv_m8V9A5EzZc3jrTz2_gzdKXgROE/edit?usp=sharing)
 
 ## Einordnung in den Seminarverlauf
