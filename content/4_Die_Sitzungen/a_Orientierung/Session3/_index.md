@@ -4,6 +4,7 @@ date: 2020-11-21T12:59:36+01:00
 draft: false
 weight: 3
 ---
+![](https://raw.githubusercontent.com/Lehrerbildung/Lehrerbildung.github.io/master/GenutzteBilder/Steckbriefe/steckbrief_3.jpg)
 
 **Links für den direkten Download der Seminarmaterialien:**
 

@@ -5,6 +5,7 @@ draft: false
 weight: 5
 ---
 
+![](https://raw.githubusercontent.com/Lehrerbildung/Lehrerbildung.github.io/master/GenutzteBilder/Steckbriefe/steckbrief_5.jpg)
 
 **Links für den direkten Download der Seminarmaterialien:**
 

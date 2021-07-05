@@ -5,6 +5,8 @@ weight: 13
 draft: false
 ---
 
+![](https://raw.githubusercontent.com/Lehrerbildung/Lehrerbildung.github.io/master/GenutzteBilder/Steckbriefe/steckbrief_13.jpg)
+
 **Links für den direkten Download der Seminarmaterialien:**
 * [Ablaufplan als Markdowndatei](https://raw.githubusercontent.com/Lehrerbildung/BKD-github/main/static/mds/13-SchulEntwicklung.md)
 * [Ablaufplan als PDF-Datei](https://github.com/Lehrerbildung/BKD-github/raw/main/content/PDFs/13-SchulEntwicklung.pdf)

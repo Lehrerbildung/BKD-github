@@ -5,6 +5,8 @@ weight: 1
 draft: false
 ---
 
+![](https://raw.githubusercontent.com/Lehrerbildung/Lehrerbildung.github.io/master/GenutzteBilder/Steckbriefe/steckbrief_1.jpg)
+
 **Links für den direkten Download der Seminarmaterialien**:
 * [Ablaufplan als Markdowndatei](https://raw.githubusercontent.com/Lehrerbildung/BKD-github/main/static/mds/1-DigiBildung.md)
 * [Ablaufplan als PDF-Datei](https://github.com/Lehrerbildung/BKD-github/raw/main/content/PDFs/1-DigiBildung.pdf)

@@ -5,6 +5,8 @@ draft: false
 weight: 12
 ---
 
+![](https://raw.githubusercontent.com/Lehrerbildung/Lehrerbildung.github.io/master/GenutzteBilder/Steckbriefe/steckbrief_12.jpg)
+
 * [Ablaufplan als Markdowndatei](https://raw.githubusercontent.com/Lehrerbildung/BKD-github/main/static/mds/12-Ergebnisse.md)
 * [Ablaufplan als PDF-Datei](https://github.com/Lehrerbildung/BKD-github/raw/main/content/PDFs/12-Ergebnisse.pdf)
 * [Aufgaben als H5P-Element](https://github.com/Lehrerbildung/BKD-github/raw/main/content/h5pElemente/12-Ergebnisse.h5p)

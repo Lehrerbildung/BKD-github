@@ -5,6 +5,8 @@ draft: false
 weight: 4
 ---
 
+![](https://raw.githubusercontent.com/Lehrerbildung/Lehrerbildung.github.io/master/GenutzteBilder/Steckbriefe/steckbrief_4.jpg)
+
 **Links für den direkten Download der Seminarmaterialien**:
 * [Ablaufplan als Markdowndatei](https://raw.githubusercontent.com/Lehrerbildung/BKD-github/main/static/mds/4-InfoÜbertragung.md)
 * [Ablaufplan als PDF-Datei](https://github.com/Lehrerbildung/BKD-github/raw/main/content/PDFs/4-InfoÜbertragung.pdf)
