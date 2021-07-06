@@ -5,8 +5,6 @@ weight: 32
 draft: false
 ---
 
-# Hintergrund 
-
 
 Teaser zum Seminar „Basiskompetenzen Digitalisierung für Lehramtsstudierende“: 
 ![](https://raw.githubusercontent.com/Lehrerbildung/BKD-github/main/static/images/seiteninhalt/TeaserVideo.mp4)
