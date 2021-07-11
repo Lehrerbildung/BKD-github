@@ -7,6 +7,7 @@ weight: 12
 
 ![](https://raw.githubusercontent.com/Lehrerbildung/Lehrerbildung.github.io/master/GenutzteBilder/Steckbriefe/steckbrief_12.jpg)
 
+**Links für den direkten Download der Seminarmaterialien**:
 * [Ablaufplan als Markdowndatei](https://raw.githubusercontent.com/Lehrerbildung/BKD-github/main/static/mds/12-Ergebnisse.md)
 * [Ablaufplan als PDF-Datei](https://github.com/Lehrerbildung/BKD-github/raw/main/content/PDFs/12-Ergebnisse.pdf)
 * [Aufgaben als H5P-Element](https://github.com/Lehrerbildung/BKD-github/raw/main/content/h5pElemente/12-Ergebnisse.h5p)
@@ -93,5 +94,4 @@ Eine Woche vor Seminarbeginn stellen Sie den Studierenden die folgenden  Aufgabe
 *Autor:innen:* [Joana Kompa](https://joanakompa.com/) und [Torben Mau](https://www.torbenmau.de) für [Niedersächsisches Verbundprojekt “Basiskompetenzen Digitalisierung”](http://www.lehrerbildungsverbund-niedersachsen.de/index.php?s=ProjektBasiskompetenzenDigitalisierung)
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br/><p>Die Inhalte dieser Seite sind, sofern nicht anders angegeben, nach <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons 4.0</a> Attribution lizenziert.</p>
-
 

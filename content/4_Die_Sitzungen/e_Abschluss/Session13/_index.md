@@ -11,7 +11,7 @@ draft: false
 * [Ablaufplan als Markdowndatei](https://raw.githubusercontent.com/Lehrerbildung/BKD-github/main/static/mds/13-SchulEntwicklung.md)
 * [Ablaufplan als PDF-Datei](https://github.com/Lehrerbildung/BKD-github/raw/main/content/PDFs/13-SchulEntwicklung.pdf)
 * [Aufgaben als H5P-Element](https://github.com/Lehrerbildung/BKD-github/raw/main/content/h5pElemente/13-SchulEntwicklung.h5p)
-* [Folien als Google Slides]()
+* [Folien als Google Slides](https://docs.google.com/presentation/d/18J1q5VWBdAj69B7PsixYVD4T7uyD8GadyDYYbryyHEM/edit#slide=id.g9bd8908430_0_0)
 
 
 
@@ -89,4 +89,3 @@ Eine Woche vor Seminarbeginn stellen Sie den Studierenden die folgenden  Aufgabe
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br/><p>Die Inhalte dieser Seite sind, sofern nicht anders angegeben, nach <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons 4.0</a> Attribution lizenziert.</p>
-
