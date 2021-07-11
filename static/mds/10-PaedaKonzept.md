@@ -1,13 +1,13 @@
 # 10 Erstellung einer pädagogischen Strategie mit dem ABC Workshop Format
 
 
-![](https://raw.githubusercontent.com/Lehrerbildung/Lehrerbildung.github.io/master/GenutzteBilder/Steckbriefe/steckbrief_10.jpg)
+![](https://raw.githubusercontent.com/Lehrerbildung/Lehrerbildung.github.io/master/GenutzteBilder/Steckbriefe/steckbrief_10.jpg)  
 
-**Links für den direkten Download der Seminarmaterialien**:
-* [Ablaufplan als Markdowndatei](https://raw.githubusercontent.com/Lehrerbildung/BKD-github/main/static/mds/10-PaedaKonzept.md)
-* [Ablaufplan als PDF-Datei](https://github.com/Lehrerbildung/BKD-github/raw/main/content/PDFs/10-PaedaKonzept.pdf)
-* [Aufgaben als H5P-Element](https://github.com/Lehrerbildung/BKD-github/raw/main/content/h5pElemente/10-PaedaKonzept.h5p)
-* [Folien als Google Slides](https://docs.google.com/presentation/d/1JAqkCdFw2GGxTtSmocDIXj8cIlHmukLZmDIttbSwUSg/edit?usp=sharing)  
+**Links für den direkten Download der Seminarmaterialien**:  
+* [Ablaufplan als Markdowndatei](https://raw.githubusercontent.com/Lehrerbildung/BKD-github/main/static/mds/10-PaedaKonzept.md)  
+* [Ablaufplan als PDF-Datei](https://github.com/Lehrerbildung/BKD-github/raw/main/content/PDFs/10-PaedaKonzept.pdf)  
+* [Aufgaben als H5P-Element](https://github.com/Lehrerbildung/BKD-github/raw/main/content/h5pElemente/10-PaedaKonzept.h5p)  
+* [Folien als Google Slides](https://docs.google.com/presentation/d/1JAqkCdFw2GGxTtSmocDIXj8cIlHmukLZmDIttbSwUSg/edit?usp=sharing)    
 <!-- -->
 
 ## Einordnung

@@ -3,7 +3,7 @@
 
 ![](https://raw.githubusercontent.com/Lehrerbildung/Lehrerbildung.github.io/master/GenutzteBilder/Steckbriefe/steckbrief_8.jpg)  
 
-**Links für den direkten Download der Seminarmaterialien**:
+**Links für den direkten Download der Seminarmaterialien**:  
 * [Ablaufplan als Markdowndatei](https://raw.githubusercontent.com/Lehrerbildung/BKD-github/main/static/mds/8-MedienReflexion.md)  
 * [Ablaufplan als PDF-Datei](https://github.com/Lehrerbildung/BKD-github/raw/main/content/PDFs/8-MedienReflexion.pdf)  
 * [Aufgaben als H5P-Element](https://github.com/Lehrerbildung/BKD-github/raw/main/content/h5pElemente/8-MedienReflexion.h5p)  

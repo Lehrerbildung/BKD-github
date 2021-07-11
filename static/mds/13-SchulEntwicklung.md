@@ -2,8 +2,8 @@
 
 ![](https://raw.githubusercontent.com/Lehrerbildung/Lehrerbildung.github.io/master/GenutzteBilder/Steckbriefe/steckbrief_13.jpg)  
 
-**Links für den direkten Download der Seminarmaterialien:**
-* [Ablaufplan als Markdowndatei](https://raw.githubusercontent.com/Lehrerbildung/BKD-github/main/static/mds/13-SchulEntwicklung.md)  
+**Links für den direkten Download der Seminarmaterialien:**  
+* [Ablaufplan als Markdowndatei](https://raw.githubusercontent.com/Lehrerbildung/BKD-github/main/static/mds/13-SchulEntwicklung.md)    
 * [Ablaufplan als PDF-Datei](https://github.com/Lehrerbildung/BKD-github/raw/main/content/PDFs/13-SchulEntwicklung.pdf)  
 * [Aufgaben als H5P-Element](https://github.com/Lehrerbildung/BKD-github/raw/main/content/h5pElemente/13-SchulEntwicklung.h5p)  
 * [Folien als Google Slides](https://docs.google.com/presentation/d/18J1q5VWBdAj69B7PsixYVD4T7uyD8GadyDYYbryyHEM/edit#slide=id.g9bd8908430_0_0)  
