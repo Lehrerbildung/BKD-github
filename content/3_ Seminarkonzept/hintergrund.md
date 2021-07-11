@@ -9,6 +9,11 @@ draft: false
 Teaser zum Seminar „Basiskompetenzen Digitalisierung für Lehramtsstudierende“: 
 ![](https://raw.githubusercontent.com/Lehrerbildung/BKD-github/main/static/images/seiteninhalt/TeaserVideo.mp4)
 
+<video width="600" height="480" controls>
+  <source src="https://raw.githubusercontent.com/Lehrerbildung/BKD-github/main/static/images/seiteninhalt/TeaserVideo.mp4" type="video/mp4">
+</video>
+
+
 <br> Die Lehrveranstaltung „Basiskompetenzen Digitalisierung für Lehramtsstudierende“ wurde im Rahmen des [niedersächsischen Verbundprojektes „Basiskompetenzen Digitalisierung“](http://www.lehrerbildungsverbund-niedersachsen.de/index.php?s=ProjektBasiskompetenzenDigitalisierung) entwickelt. Dabei orientierte sich die Seminarkonzipierung an verschiedenen Best-Practice-Beispielen aus Niedersachsen. Erstmals wurde die Lehrveranstaltung im Sommersemester 2020 von [Torben Mau](https://twitter.com/TorbenMau) an der Georg-August-Universität Göttingen durchgeführt. Perspektivisch sollen die in diesem Seminar geförderten Kompetenzen bis 2023 in das Regelstudium aller niedersächsischen Lehramtsstudiengänge integriert werden. 
 <br>**Zielgruppe**
 <br>Die Lehrveranstaltung richtet sich fächerübergreifend an alle Lehramtsstudierenden. In Göttingen wurde die Pilotveranstaltung von Lehramtsstudierenden des gymnasialen Lehramts und der Wirtschaftspädagogik besucht. Angeboten wurde das Seminar im Rahmen der [Zertifikatslinie #DigitaleBildung](https://www.uni-goettingen.de/de/560405.html) des Zusatzangebotes Lehramt PluS.  
