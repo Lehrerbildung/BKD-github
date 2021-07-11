@@ -5,6 +5,8 @@ draft: false
 weight: 13
 ---
 
+[Direktdownload der H5P Datei](https://github.com/Lehrerbildung/BKD-github/raw/main/content/h5pElemente/12-Ergebnisse.h5p)
+
 <html>
             <html class="h5p-iframe">
             <head>

@@ -5,6 +5,9 @@ weight: 2
 draft: false
 
 ---
+
+[Direktdownload der H5P Datei](https://github.com/Lehrerbildung/BKD-github/raw/main/content/h5pElemente/1-DigiBildung.h5p)
+
 <html>
             <html class="h5p-iframe">
             <head>

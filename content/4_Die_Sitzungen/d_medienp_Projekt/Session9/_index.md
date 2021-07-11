@@ -96,6 +96,3 @@ Eine Woche vor Seminarbeginn stellen Sie den Studierenden die folgenden  Aufgabe
 *Autor:innen:* [Torben Mau](https://www.torbenmau.de) und [Joana Kompa](https://joanakompa.com/) für [Niedersächsisches Verbundprojekt “Basiskompetenzen Digitalisierung”](http://www.lehrerbildungsverbund-niedersachsen.de/index.php?s=ProjektBasiskompetenzenDigitalisierung)
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br/><p>Die Inhalte dieser Seite sind, sofern nicht anders angegeben, nach <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons 4.0</a> Attribution lizenziert.</p>
-
-
-
